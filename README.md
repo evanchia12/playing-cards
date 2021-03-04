@@ -1,7 +1,9 @@
 # playing-cards
 1. Theme: Playing cards will be given out to n(number) people
+ 
 2. Purpose: Total 52 cards containing 1-13 of each Spade(S), Heart(H), Diamond(D), Club(C) will be
 given to n people randomly.
+
 3. Program Input :
     a. Number of people (numerical value)
     b. It does not matter how cards are given if recompile of program arguments, parameter,
@@ -11,6 +13,7 @@ given to n people randomly.
     d. Any number less than 0 is an invalid value.
     e. Greater than 53 are normal values and cards must be distributed to a number of people
     instead of having it as an error.
+    
 4. Output format :
     a. Spade = S, Heart = H, Diamond = D, Club = C
     b. Card 2 to 9 are, as it is, 1=A,10=X,11=J,12=Q,13=K
